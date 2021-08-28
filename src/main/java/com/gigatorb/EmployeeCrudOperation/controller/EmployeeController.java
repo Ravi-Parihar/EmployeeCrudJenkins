@@ -33,6 +33,7 @@ public class EmployeeController {
 	//get all employee
 	@GetMapping("/employee")
 	public List<Employee> getAllEmployees(){
+		System.out.println("Hello Jenkins");
 		return emprepo.findAll();
 	}
 	
