@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gigatorb</groupId>
-	<artifactId>EmployeeCrudOperation</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>employeecrudoperation</artifactId>
+	<version>0.0.1-snapshot</version>
 	<name>EmployeeCrudOperation</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
